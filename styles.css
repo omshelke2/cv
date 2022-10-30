@@ -1,0 +1,145 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+h1{
+    margin-top: 0%;
+    margin-bottom: 0;
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+}
+h2{
+    margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+
+}
+
+
+
+/* Divs */
+.top-container{
+    
+    position: relative;
+    padding-top: 100px;
+    background-color: #eaf6f6;
+    
+    
+}
+
+
+
+.pro{
+    text-decoration: underline;
+}
+
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right:200px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+
+
+.bottom-container{
+    margin-top: 60px;
+}
+
+
+.whatsapp-qr{
+    height: 150px;
+    width: 150px;
+    
+}
+
+/* .phonepe-qr{
+    height: 125px;
+    width: 125px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+} */
+.profile-img{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 25px;
+}
+
+hr{
+    width: 10%;
+    border-style: dotted none none;
+    color: grey;
+    border-top-width:7px;
+    margin-top: 50px;
+}
+
+.footer{
+    background-color: #66bfbf;
+    width: 100%;
+    height: 200px;
+    margin-top: 100px;
+}
+
+.coding-img{
+   width: 25%;
+   float: left;
+   margin-right: 30px;
+}
+
+.network-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 60%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+
+.profile{
+    margin-top: 60px;
+}
+
+.hello{
+    margin-bottom: 0;
+}
+
+.instagram-logo{
+    margin-top: 50px;
+    height: 25px;
+    width: 25px;
+}
+.linkedin-img{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.copyright{
+    position: relative;
+    top: 80px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+
